@@ -1,1 +1,3 @@
-## Bachelor thesis repo
+## Explainable AI (Bachelor Thesis)
+Repo for my thesis on XAI (Explainable AI)
+...work in progress...
