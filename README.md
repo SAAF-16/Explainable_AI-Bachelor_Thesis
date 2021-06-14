@@ -1,11 +1,12 @@
 ## Explainable AI (Bachelor Thesis)
-This repository contains material and experiments used in my thesis about XAI (Explainable AI).  I'ts possible to use different models and explain the results through different libraries
+This repository contains material and experiments used in my thesis about XAI (Explainable AI).  I'ts possible to use different models and explain the results through different libraries. It's  also possible to execute some adversarial attacks on the images and check the explanation returned.
 
 ## Install
 The libraries used are  
 - Shap
 - LIME
 - tf-explain
+- adversarial-robustness-toolbox
   
 For all the libraries it's possible the installation through the pip command
 
