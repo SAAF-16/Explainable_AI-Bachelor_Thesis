@@ -2,11 +2,12 @@
 This repository contains material and experiments used in my thesis about XAI (Explainable AI).  I'ts possible to use different models and explain the results through different libraries
 
 ## Install
-The libraries used are 
+The libraries used are  
 - Shap
 - LIME
 - tf-explain
-that can be installed using the pip command
+  
+For all the libraries it's possible the installation through the pip command
 
 ## Screenshots
 (work in progress)
