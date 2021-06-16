@@ -1,14 +1,14 @@
 ## Explainable AI (Bachelor Thesis)
-This repository contains material and experiments used in my thesis about XAI (Explainable AI).  I'ts possible to use different models and explain the results through different libraries. It's  also possible to execute some adversarial attacks on the images and check the explanation returned.
+This repository contains material and experiments used in my thesis about XAI (Explainable AI).  I'ts possible to use different models and explain the results through different libraries. It's  also possible to execute some adversarial attacks on the images and check the returned explanation.
 
 ## Install
 The libraries used are  
-- shap
-- LIME
-- tf-explain
-- adversarial-robustness-toolbox
+- shap https://github.com/slundberg/shap
+- lime https://github.com/marcotcr/lime
+- tf-explain https://github.com/sicara/tf-explain
+- adversarial-robustness-toolbox https://github.com/Trusted-AI/adversarial-robustness-toolbox
   
-For all the libraries it's possible the installation through the pip command
+For all the libraries it's possible the installation with pip
 
 ## Screenshots
 (work in progress)
