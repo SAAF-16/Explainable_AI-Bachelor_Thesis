@@ -3,15 +3,30 @@ This repository contains material and experiments used in my thesis about XAI (E
 
 ## Install
 The libraries used are  
-- shap https://github.com/slundberg/shap
 - lime https://github.com/marcotcr/lime
+- shap https://github.com/slundberg/shap
 - tf-explain https://github.com/sicara/tf-explain
 - adversarial-robustness-toolbox https://github.com/Trusted-AI/adversarial-robustness-toolbox
   
 For all the libraries it's possible the installation with pip
 
 ## Screenshots
-(work in progress)
+#### Lime 
+<img src="https://user-images.githubusercontent.com/79462238/128388947-6088133a-dc22-40fe-9633-d257b069515b.png" width="500" height="400">
+
+#### Shap Gradient Explainer
+<img src="https://user-images.githubusercontent.com/79462238/128388977-51593f7b-caf7-4105-8b22-54054f9eaf00.png" width="500" height="600">
+
+#### Shap Kernel Explainer
+<img src="https://user-images.githubusercontent.com/79462238/128389006-a46d516c-b0f5-426d-b08b-317ca8d79d1b.png" width="500" height="400">
+
+#### tf-explain
+<img src="https://user-images.githubusercontent.com/79462238/128389041-8e2c7287-346a-415d-8495-8a8ecd491dfc.png" width="500" height="400">
+
+#### ART Toolbox
+<img src="https://user-images.githubusercontent.com/79462238/128389087-42ace7dc-d2c4-4f6a-bfa0-712d60f90e76.png" width="500" height="400">
+
+
 
 ## Notebooks
 Through these Notebooks it's possible to replicate the experiments using pictures of choice
