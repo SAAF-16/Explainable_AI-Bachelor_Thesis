@@ -1,5 +1,5 @@
 ## Explainable AI (Bachelor Thesis)
-This repository contains material and experiments used in my thesis about XAI (Explainable AI).  I'ts possible to use different models and explain the results through different libraries. It's  also possible to execute some adversarial attacks on the images and check the returned explanation.
+This repository contains material and experiments used in my thesis about XAI (Explainable AI).  It's possible to use different models and explain the results through different libraries. It's  also possible to execute some adversarial attacks on the images and check the returned explanation.
 
 ## Install
 The libraries used are  
